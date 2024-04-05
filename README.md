@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **sakaryakerem252@gmail.com**
 
-- ⚡ Fun fact **I' interested in cryipto**
+- ⚡ Fun fact **I'm interested in cryipto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
