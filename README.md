@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kerem!
-🧑‍💻 React Front-End Developer sharing about my progress and learnings in tech.<br>🧑‍🎓 Still studying Digital Game Designing at University of Bilgi, Türkiye.<br>⚡ I’m also interested and make an effort about cyripto section.
+🧑‍💻 React Front-End Developer sharing about my progress and learnings in tech.<br>🧑‍🎓 Still studying Digital Game Designing at University of Bilgi, Türkiye.<br>⚡ I’m also interested and make an effort about cyripto section.<br> ✉️ Contact here sakaryakerem252@gmail.com.
 
 
 ## 🌐 Socials:
