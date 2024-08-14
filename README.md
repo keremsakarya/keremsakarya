@@ -1,3 +1,5 @@
+![giphy (1)](https://github.com/user-attachments/assets/88b9e263-ab32-488c-8b8a-9c1d494a4f51)
+
 # 👋 Hi, I'm Kerem!
 🧑‍💻 React Front-End Developer sharing about my progress and learnings in tech.<br>🧑‍🎓 Still studying Digital Game Designing at University of Bilgi, Türkiye.<br>⚡ I’m also interested and make an effort about cyripto section and digital game design section.<br> ✉️ Contact here sakaryakerem252@gmail.com.
 
